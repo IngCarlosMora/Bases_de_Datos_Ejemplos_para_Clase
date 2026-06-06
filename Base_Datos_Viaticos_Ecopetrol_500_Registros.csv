@@ -1,0 +1,501 @@
+ID_Viático,Cédula_Empleado,Nombre_Empleado,Cargo,Ciudad_Origen,Destino_Operación,Fecha_Salida,Fecha_Regreso,Total_Legalizado_COP,Estado_Legalización
+VIA-2026-101,968682846,Ana Martínez,Asistente Administrativo,Bogotá,Barrancabermeja,2026-11-24,2026-11-27,3276705,Aprobado
+VIA-2026-102,8713905715,Jorge Ramírez,Asistente Administrativo,Bogotá,Barrancabermeja,2026-08-05,2026-08-07,1724594,Aprobado
+VIA-2026-103,9285666116,Natalia Ortiz,Supervisor HSE,Bogotá,Barrancabermeja,2026-08-18,2026-08-29,1452128,Rechazado
+VIA-2026-104,4720360983,Liliana Díaz,Asistente Administrativo,Bogotá,Barrancabermeja,2026-04-21,2026-05-05,4185341,Aprobado
+VIA-2026-105,8266195745,Juan Gómez,Asistente Administrativo,Bogotá,Campo Rubiales,2026-01-23,2026-02-05,4278775,Aprobado
+VIA-2026-106,9425807788,Juan Gómez,Ingeniero de Yacimientos,Bucaramanga,Cartagena,2026-11-18,2026-11-29,1755874,Aprobado
+VIA-2026-107,5937597015,Felipe León,Supervisor HSE,Bogotá,Cartagena,2026-05-29,2026-06-01,2352651,Rechazado
+VIA-2026-108,8906606039,Diana Castro,Asistente Administrativo,Neiva,Yopal,2026-07-01,2026-07-06,1826811,Pendiente de Revisión
+VIA-2026-109,2402080953,Camilo Torres,Ingeniero de Yacimientos,Bogotá,Campo Rubiales,2026-03-25,2026-04-03,4246889,Rechazado
+VIA-2026-110,1361531223,Mónica Guerrero,Geólogo de Exploración,Bucaramanga,Barrancabermeja,2026-01-17,2026-01-31,2724564,Aprobado
+VIA-2026-111,6619857128,Ricardo Parra,Geólogo de Exploración,Bogotá,Barrancabermeja,2026-03-15,2026-03-21,2475207,Pendiente de Revisión
+VIA-2026-112,2129634399,María Rodríguez,Ingeniero de Yacimientos,Bogotá,Cartagena,2026-07-05,2026-07-10,3431699,Aprobado
+VIA-2026-113,5957530309,Patricia Acosta,Geólogo de Exploración,Bogotá,Yopal,2026-03-23,2026-04-06,1854507,Pendiente de Revisión
+VIA-2026-114,9091930571,Laura Méndez,Supervisor HSE,Neiva,Cartagena,2026-10-11,2026-10-26,3488388,Pendiente de Revisión
+VIA-2026-115,7395972235,Sergio Cárdenas,Técnico de Mantenimiento,Bogotá,Barrancabermeja,2026-06-24,2026-06-27,1246319,Aprobado
+VIA-2026-116,864316681,Liliana Díaz,Técnico de Mantenimiento,Bogotá,Orito,2026-11-17,2026-11-23,4065796,Aprobado
+VIA-2026-117,7770038701,Paula Moreno,Ingeniero de Yacimientos,Bogotá,Yopal,2026-09-29,2026-10-01,4482639,Aprobado
+VIA-2026-118,3299233844,Luis Hernández,Geólogo de Exploración,Bogotá,Barrancabermeja,2026-10-18,2026-10-21,1492592,Aprobado
+VIA-2026-119,9463871839,Sandra Rojas,Geólogo de Exploración,Bucaramanga,Cartagena,2026-05-16,2026-05-26,3525786,Aprobado
+VIA-2026-120,1074746525,Juan Gómez,Supervisor HSE,Bogotá,Cartagena,2026-07-11,2026-07-20,3267545,Aprobado
+VIA-2026-121,262860896,Juan Gómez,Ingeniero de Yacimientos,Bogotá,Yopal,2026-10-11,2026-10-16,1097197,Aprobado
+VIA-2026-122,2325992115,Ricardo Parra,Asistente Administrativo,Bogotá,Barrancabermeja,2026-09-21,2026-09-26,1819204,Aprobado
+VIA-2026-123,7135276666,Liliana Díaz,Geólogo de Exploración,Bogotá,Campo Rubiales,2026-08-31,2026-09-14,2758843,Aprobado
+VIA-2026-124,4565296751,Camilo Torres,Ingeniero de Yacimientos,Bogotá,Yopal,2026-01-28,2026-02-09,1603587,Pendiente de Revisión
+VIA-2026-125,5501309593,Paula Moreno,Ingeniero de Yacimientos,Bogotá,Campo Rubiales,2026-04-08,2026-04-18,4189090,Aprobado
+VIA-2026-126,3600711152,Juan Gómez,Técnico de Mantenimiento,Bogotá,Barrancabermeja,2026-10-09,2026-10-12,2504624,Rechazado
+VIA-2026-127,261837136,Diego Suárez,Ingeniero de Yacimientos,Bogotá,Barrancabermeja,2026-09-06,2026-09-15,1912342,Aprobado
+VIA-2026-128,7390507338,Luis Hernández,Técnico de Mantenimiento,Bogotá,Campo Rubiales,2026-08-21,2026-08-27,1713103,Rechazado
+VIA-2026-129,1356922426,María Rodríguez,Asistente Administrativo,Bogotá,Orito,2026-01-30,2026-02-10,2909107,Aprobado
+VIA-2026-130,3666488400,Juan Gómez,Asistente Administrativo,Bogotá,Barrancabermeja,2026-09-29,2026-10-03,3632046,Aprobado
+VIA-2026-131,9657421460,Patricia Acosta,Ingeniero de Yacimientos,Bogotá,Barrancabermeja,2026-05-01,2026-05-09,1143863,Rechazado
+VIA-2026-132,8319500117,Jorge Ramírez,Supervisor HSE,Bogotá,Yopal,2026-08-03,2026-08-15,1914068,Aprobado
+VIA-2026-133,321570307,Felipe León,Asistente Administrativo,Bogotá,Yopal,2026-07-22,2026-07-26,1219351,Aprobado
+VIA-2026-134,8313285822,Juan Gómez,Técnico de Mantenimiento,Bogotá,Barrancabermeja,2026-02-07,2026-02-17,1995323,Aprobado
+VIA-2026-135,8633534576,Laura Méndez,Supervisor HSE,Bucaramanga,Orito,2026-03-22,2026-03-31,1234473,Pendiente de Revisión
+VIA-2026-136,2386077463,Andrés Vargas,Supervisor HSE,Bogotá,Barrancabermeja,2026-03-10,2026-03-16,1683444,Aprobado
+VIA-2026-137,6475682673,Andrés Vargas,Ingeniero de Yacimientos,Bogotá,Yopal,2026-06-25,2026-06-30,3460381,Rechazado
+VIA-2026-138,3321931853,Andrés Vargas,Técnico de Mantenimiento,Neiva,Barrancabermeja,2026-08-05,2026-08-20,2653192,Aprobado
+VIA-2026-139,3892343658,Laura Méndez,Ingeniero de Yacimientos,Bogotá,Campo Rubiales,2026-10-10,2026-10-23,3243222,Aprobado
+VIA-2026-140,1546778950,Paula Moreno,Ingeniero de Yacimientos,Bogotá,Campo Rubiales,2026-10-10,2026-10-14,4072044,Aprobado
+VIA-2026-141,4003808565,Diana Castro,Técnico de Mantenimiento,Bogotá,Campo Rubiales,2026-10-14,2026-10-29,903961,Pendiente de Revisión
+VIA-2026-142,5370837474,Diana Castro,Ingeniero de Yacimientos,Bogotá,Cartagena,2026-04-02,2026-04-15,4458132,Pendiente de Revisión
+VIA-2026-143,8249688178,Liliana Díaz,Supervisor HSE,Bogotá,Campo Rubiales,2026-01-20,2026-02-04,1735009,Aprobado
+VIA-2026-144,3722367625,Andrés Vargas,Supervisor HSE,Bucaramanga,Barrancabermeja,2026-01-13,2026-01-25,2936602,Aprobado
+VIA-2026-145,4043992825,Ana Martínez,Supervisor HSE,Bogotá,Cartagena,2026-07-24,2026-08-05,3235169,Aprobado
+VIA-2026-146,5652201119,Patricia Acosta,Asistente Administrativo,Bogotá,Barrancabermeja,2026-05-16,2026-05-18,2415626,Aprobado
+VIA-2026-147,8607198563,Laura Méndez,Técnico de Mantenimiento,Bogotá,Barrancabermeja,2026-10-23,2026-10-28,2608992,Pendiente de Revisión
+VIA-2026-148,9135196246,Sandra Rojas,Asistente Administrativo,Bogotá,Cartagena,2026-02-05,2026-02-17,3597151,Pendiente de Revisión
+VIA-2026-149,556696950,Natalia Ortiz,Geólogo de Exploración,Bucaramanga,Campo Rubiales,2026-07-29,2026-08-05,3937903,Aprobado
+VIA-2026-150,3590822352,Sandra Rojas,Supervisor HSE,Bogotá,Yopal,2026-03-31,2026-04-11,2603081,Aprobado
+VIA-2026-151,9517775130,Mónica Guerrero,Técnico de Mantenimiento,Bucaramanga,Yopal,2026-10-24,2026-11-04,1155658,Aprobado
+VIA-2026-152,9608687535,Sandra Rojas,Técnico de Mantenimiento,Bogotá,Yopal,2026-05-26,2026-06-05,1418047,Pendiente de Revisión
+VIA-2026-153,4617762160,Natalia Ortiz,Asistente Administrativo,Bogotá,Barrancabermeja,2026-01-13,2026-01-15,3812961,Aprobado
+VIA-2026-154,2963315788,Ana Martínez,Geólogo de Exploración,Bogotá,Campo Rubiales,2026-07-16,2026-07-25,1537722,Aprobado
+VIA-2026-155,3653576871,Felipe León,Técnico de Mantenimiento,Bogotá,Barrancabermeja,2026-09-23,2026-10-02,3600023,Aprobado
+VIA-2026-156,8133612497,Patricia Acosta,Asistente Administrativo,Bogotá,Yopal,2026-09-29,2026-10-09,4283659,Rechazado
+VIA-2026-157,6343678472,Andrés Vargas,Técnico de Mantenimiento,Bucaramanga,Cartagena,2026-10-08,2026-10-17,1963128,Pendiente de Revisión
+VIA-2026-158,8932723063,Sandra Rojas,Técnico de Mantenimiento,Bogotá,Yopal,2026-09-24,2026-10-03,2208646,Aprobado
+VIA-2026-159,9256228194,Jorge Ramírez,Ingeniero de Yacimientos,Bogotá,Barrancabermeja,2026-06-13,2026-06-23,2509595,Aprobado
+VIA-2026-160,7882207630,Diego Suárez,Asistente Administrativo,Bucaramanga,Campo Rubiales,2026-06-19,2026-06-29,881922,Aprobado
+VIA-2026-161,7894394611,Laura Méndez,Asistente Administrativo,Bogotá,Campo Rubiales,2026-10-22,2026-10-30,1725006,Rechazado
+VIA-2026-162,5975096268,Diego Suárez,Técnico de Mantenimiento,Bogotá,Barrancabermeja,2026-09-07,2026-09-12,1335309,Aprobado
+VIA-2026-163,126402431,Natalia Ortiz,Técnico de Mantenimiento,Bogotá,Barrancabermeja,2026-11-15,2026-11-25,1562226,Aprobado
+VIA-2026-164,5708759353,Diego Suárez,Supervisor HSE,Neiva,Campo Rubiales,2026-01-26,2026-02-01,4289343,Aprobado
+VIA-2026-165,8393431259,Paula Moreno,Ingeniero de Yacimientos,Neiva,Orito,2026-08-04,2026-08-10,3533657,Aprobado
+VIA-2026-166,3614460472,Patricia Acosta,Técnico de Mantenimiento,Bogotá,Barrancabermeja,2026-01-21,2026-02-04,1329409,Aprobado
+VIA-2026-167,1594392711,Patricia Acosta,Asistente Administrativo,Neiva,Barrancabermeja,2026-08-31,2026-09-12,3813008,Rechazado
+VIA-2026-168,9064215189,Carlos Pérez,Supervisor HSE,Bogotá,Orito,2026-02-28,2026-03-14,3641000,Rechazado
+VIA-2026-169,1053030161,Sandra Rojas,Asistente Administrativo,Bogotá,Cartagena,2026-07-12,2026-07-20,4139618,Aprobado
+VIA-2026-170,7146179811,Juan Gómez,Asistente Administrativo,Bucaramanga,Barrancabermeja,2026-10-17,2026-10-31,2231227,Aprobado
+VIA-2026-171,4962059278,Diana Castro,Asistente Administrativo,Bucaramanga,Campo Rubiales,2026-01-07,2026-01-22,1932807,Aprobado
+VIA-2026-172,6301584955,Ricardo Parra,Supervisor HSE,Bogotá,Cartagena,2026-11-12,2026-11-26,4372343,Pendiente de Revisión
+VIA-2026-173,1946179853,Felipe León,Asistente Administrativo,Bogotá,Cartagena,2026-05-06,2026-05-21,3602585,Aprobado
+VIA-2026-174,5085963527,Jorge Ramírez,Supervisor HSE,Bogotá,Barrancabermeja,2026-07-14,2026-07-21,2227484,Rechazado
+VIA-2026-175,8643533290,Jorge Ramírez,Ingeniero de Yacimientos,Bogotá,Orito,2026-05-24,2026-06-04,3820212,Aprobado
+VIA-2026-176,7362307139,Felipe León,Ingeniero de Yacimientos,Bogotá,Yopal,2026-07-28,2026-08-06,2034113,Aprobado
+VIA-2026-177,6802729530,Mónica Guerrero,Asistente Administrativo,Bogotá,Yopal,2026-04-24,2026-05-02,2241823,Aprobado
+VIA-2026-178,6253788374,Sandra Rojas,Supervisor HSE,Bogotá,Yopal,2026-08-06,2026-08-19,1306067,Aprobado
+VIA-2026-179,805212538,Jorge Ramírez,Geólogo de Exploración,Bogotá,Barrancabermeja,2026-04-09,2026-04-16,3839129,Aprobado
+VIA-2026-180,5138695961,Paula Moreno,Supervisor HSE,Bogotá,Campo Rubiales,2026-10-29,2026-11-12,2067802,Aprobado
+VIA-2026-181,4194564874,Laura Méndez,Supervisor HSE,Bucaramanga,Campo Rubiales,2026-01-08,2026-01-21,1329654,Aprobado
+VIA-2026-182,8652614082,Sandra Rojas,Geólogo de Exploración,Bogotá,Orito,2026-11-23,2026-12-08,2647460,Aprobado
+VIA-2026-183,8006039244,Ana Martínez,Ingeniero de Yacimientos,Bogotá,Cartagena,2026-06-24,2026-06-28,2862534,Aprobado
+VIA-2026-184,1314963614,Paula Moreno,Ingeniero de Yacimientos,Bogotá,Yopal,2026-02-07,2026-02-18,4006308,Aprobado
+VIA-2026-185,5938678489,Felipe León,Supervisor HSE,Bogotá,Yopal,2026-08-02,2026-08-13,2598642,Pendiente de Revisión
+VIA-2026-186,3188659381,Jorge Ramírez,Técnico de Mantenimiento,Bogotá,Yopal,2026-06-06,2026-06-17,3570036,Pendiente de Revisión
+VIA-2026-187,682302490,Natalia Ortiz,Geólogo de Exploración,Bucaramanga,Barrancabermeja,2026-02-11,2026-02-15,3290624,Pendiente de Revisión
+VIA-2026-188,9814200754,Felipe León,Ingeniero de Yacimientos,Bucaramanga,Barrancabermeja,2026-08-29,2026-09-04,1779050,Aprobado
+VIA-2026-189,5154594354,Ana Martínez,Asistente Administrativo,Bogotá,Orito,2026-05-16,2026-05-30,3516376,Pendiente de Revisión
+VIA-2026-190,9921117251,Ricardo Parra,Supervisor HSE,Bogotá,Orito,2026-03-18,2026-03-24,1321577,Aprobado
+VIA-2026-191,9769223077,Laura Méndez,Geólogo de Exploración,Bogotá,Barrancabermeja,2026-08-28,2026-09-10,1137397,Aprobado
+VIA-2026-192,6897897660,Carlos Pérez,Ingeniero de Yacimientos,Bogotá,Cartagena,2026-11-03,2026-11-05,3628212,Pendiente de Revisión
+VIA-2026-193,9757475630,María Rodríguez,Técnico de Mantenimiento,Bogotá,Cartagena,2026-10-22,2026-11-02,2976692,Rechazado
+VIA-2026-194,6818938880,Mónica Guerrero,Ingeniero de Yacimientos,Bogotá,Cartagena,2026-11-30,2026-12-09,2259454,Aprobado
+VIA-2026-195,4995704790,Natalia Ortiz,Geólogo de Exploración,Bogotá,Barrancabermeja,2026-07-29,2026-08-05,3579076,Aprobado
+VIA-2026-196,4683181221,Andrés Vargas,Supervisor HSE,Bogotá,Orito,2026-07-25,2026-08-09,4040300,Aprobado
+VIA-2026-197,6635389037,Natalia Ortiz,Ingeniero de Yacimientos,Bogotá,Campo Rubiales,2026-07-26,2026-08-10,2974492,Rechazado
+VIA-2026-198,3274134512,Jorge Ramírez,Supervisor HSE,Bogotá,Orito,2026-07-05,2026-07-16,1349509,Pendiente de Revisión
+VIA-2026-199,3443026356,Diana Castro,Supervisor HSE,Bogotá,Cartagena,2026-05-28,2026-06-06,857354,Aprobado
+VIA-2026-200,3931003983,Felipe León,Ingeniero de Yacimientos,Bucaramanga,Barrancabermeja,2026-10-10,2026-10-18,4290261,Rechazado
+VIA-2026-201,7334687182,Natalia Ortiz,Geólogo de Exploración,Bogotá,Cartagena,2026-03-20,2026-03-29,1822281,Aprobado
+VIA-2026-202,4604799319,Natalia Ortiz,Supervisor HSE,Bogotá,Barrancabermeja,2026-08-22,2026-09-01,1920603,Aprobado
+VIA-2026-203,7139391249,Luis Hernández,Geólogo de Exploración,Bogotá,Orito,2026-01-02,2026-01-08,2831475,Pendiente de Revisión
+VIA-2026-204,3005732958,Ricardo Parra,Geólogo de Exploración,Bogotá,Yopal,2026-06-26,2026-07-03,4390378,Aprobado
+VIA-2026-205,5942342612,Luis Hernández,Geólogo de Exploración,Bogotá,Barrancabermeja,2026-07-30,2026-08-01,1329515,Aprobado
+VIA-2026-206,7934383984,Ana Martínez,Asistente Administrativo,Bogotá,Barrancabermeja,2026-09-15,2026-09-26,864372,Aprobado
+VIA-2026-207,4626352188,Andrés Vargas,Supervisor HSE,Bogotá,Cartagena,2026-03-15,2026-03-23,3705413,Rechazado
+VIA-2026-208,6596857685,Camilo Torres,Geólogo de Exploración,Bogotá,Barrancabermeja,2026-07-23,2026-08-04,950571,Aprobado
+VIA-2026-209,9576980721,Juan Gómez,Geólogo de Exploración,Bogotá,Barrancabermeja,2026-11-13,2026-11-16,3989221,Pendiente de Revisión
+VIA-2026-210,7285679594,Carlos Pérez,Ingeniero de Yacimientos,Bogotá,Cartagena,2026-11-21,2026-12-04,4139267,Aprobado
+VIA-2026-211,9648754591,Natalia Ortiz,Asistente Administrativo,Bucaramanga,Campo Rubiales,2026-01-29,2026-02-04,4124067,Aprobado
+VIA-2026-212,2944040683,Mónica Guerrero,Asistente Administrativo,Bogotá,Barrancabermeja,2026-04-03,2026-04-07,1773868,Pendiente de Revisión
+VIA-2026-213,7760840032,Sandra Rojas,Asistente Administrativo,Bogotá,Barrancabermeja,2026-08-25,2026-09-06,1109799,Aprobado
+VIA-2026-214,8436850694,Andrés Vargas,Geólogo de Exploración,Bogotá,Cartagena,2026-08-15,2026-08-22,1635576,Aprobado
+VIA-2026-215,6761356568,Ricardo Parra,Supervisor HSE,Bucaramanga,Campo Rubiales,2026-07-16,2026-07-31,2038287,Aprobado
+VIA-2026-216,3441078106,Patricia Acosta,Supervisor HSE,Bogotá,Yopal,2026-01-12,2026-01-27,3470168,Aprobado
+VIA-2026-217,9187396934,Ana Martínez,Ingeniero de Yacimientos,Bogotá,Barrancabermeja,2026-04-08,2026-04-19,4107672,Pendiente de Revisión
+VIA-2026-218,5572457052,Natalia Ortiz,Técnico de Mantenimiento,Bogotá,Yopal,2026-08-14,2026-08-16,1354318,Pendiente de Revisión
+VIA-2026-219,3576852761,Andrés Vargas,Geólogo de Exploración,Bogotá,Campo Rubiales,2026-10-04,2026-10-11,3931296,Rechazado
+VIA-2026-220,4161086814,Diego Suárez,Asistente Administrativo,Bogotá,Barrancabermeja,2026-06-23,2026-07-07,1178757,Rechazado
+VIA-2026-221,9725909279,Diego Suárez,Supervisor HSE,Bogotá,Barrancabermeja,2026-07-22,2026-07-24,3630469,Aprobado
+VIA-2026-222,6716193636,Patricia Acosta,Técnico de Mantenimiento,Bucaramanga,Barrancabermeja,2026-04-30,2026-05-09,1065151,Rechazado
+VIA-2026-223,7093429496,Ana Martínez,Técnico de Mantenimiento,Bogotá,Campo Rubiales,2026-11-22,2026-12-07,956078,Pendiente de Revisión
+VIA-2026-224,2318745090,Diego Suárez,Geólogo de Exploración,Bogotá,Barrancabermeja,2026-06-05,2026-06-14,3612223,Aprobado
+VIA-2026-225,8107790557,Ana Martínez,Geólogo de Exploración,Bogotá,Yopal,2026-10-04,2026-10-12,2511762,Pendiente de Revisión
+VIA-2026-226,1567724698,Liliana Díaz,Asistente Administrativo,Bucaramanga,Yopal,2026-05-24,2026-05-26,2304387,Aprobado
+VIA-2026-227,7844841054,Juan Gómez,Técnico de Mantenimiento,Bucaramanga,Barrancabermeja,2026-02-01,2026-02-09,3482227,Rechazado
+VIA-2026-228,4256953455,Ricardo Parra,Técnico de Mantenimiento,Bogotá,Barrancabermeja,2026-11-02,2026-11-04,4280508,Aprobado
+VIA-2026-229,5305689007,Luis Hernández,Asistente Administrativo,Bogotá,Yopal,2026-10-11,2026-10-16,1962974,Pendiente de Revisión
+VIA-2026-230,9072064654,Carlos Pérez,Técnico de Mantenimiento,Bogotá,Campo Rubiales,2026-03-16,2026-03-20,2302577,Pendiente de Revisión
+VIA-2026-231,235052083,Natalia Ortiz,Asistente Administrativo,Bogotá,Barrancabermeja,2026-05-02,2026-05-13,3927546,Aprobado
+VIA-2026-232,2559776132,Felipe León,Asistente Administrativo,Bogotá,Campo Rubiales,2026-02-02,2026-02-11,3379945,Aprobado
+VIA-2026-233,6544583219,Felipe León,Ingeniero de Yacimientos,Bogotá,Orito,2026-01-23,2026-02-05,2808995,Rechazado
+VIA-2026-234,8212102595,Juan Gómez,Ingeniero de Yacimientos,Bogotá,Yopal,2026-07-25,2026-08-02,3351384,Aprobado
+VIA-2026-235,7363640266,Diego Suárez,Asistente Administrativo,Bogotá,Barrancabermeja,2026-03-17,2026-03-20,2036890,Pendiente de Revisión
+VIA-2026-236,3024119648,Laura Méndez,Técnico de Mantenimiento,Bogotá,Yopal,2026-08-21,2026-08-31,2693958,Aprobado
+VIA-2026-237,4713357871,Natalia Ortiz,Supervisor HSE,Bucaramanga,Barrancabermeja,2026-04-27,2026-05-05,1869085,Aprobado
+VIA-2026-238,376637148,Natalia Ortiz,Ingeniero de Yacimientos,Neiva,Yopal,2026-07-11,2026-07-15,3898735,Aprobado
+VIA-2026-239,6717379050,Ana Martínez,Geólogo de Exploración,Bogotá,Barrancabermeja,2026-07-10,2026-07-24,4464174,Aprobado
+VIA-2026-240,9835293486,Sandra Rojas,Supervisor HSE,Bogotá,Campo Rubiales,2026-12-07,2026-12-21,3223965,Rechazado
+VIA-2026-241,3649017775,Liliana Díaz,Asistente Administrativo,Bogotá,Barrancabermeja,2026-09-17,2026-09-22,1281863,Aprobado
+VIA-2026-242,2401179068,Patricia Acosta,Supervisor HSE,Bogotá,Barrancabermeja,2026-05-23,2026-06-03,1556719,Aprobado
+VIA-2026-243,1517634128,Diana Castro,Técnico de Mantenimiento,Bogotá,Orito,2026-05-20,2026-06-02,3557103,Rechazado
+VIA-2026-244,141671246,Sergio Cárdenas,Técnico de Mantenimiento,Bogotá,Barrancabermeja,2026-07-25,2026-07-28,2560905,Pendiente de Revisión
+VIA-2026-245,2570761628,María Rodríguez,Técnico de Mantenimiento,Bogotá,Barrancabermeja,2026-08-21,2026-08-28,3964333,Aprobado
+VIA-2026-246,7147972345,Mónica Guerrero,Asistente Administrativo,Bogotá,Yopal,2026-11-13,2026-11-15,2537212,Aprobado
+VIA-2026-247,1856465000,Sandra Rojas,Asistente Administrativo,Bogotá,Orito,2026-05-20,2026-05-25,3010121,Aprobado
+VIA-2026-248,245286733,Jorge Ramírez,Supervisor HSE,Bogotá,Barrancabermeja,2026-06-07,2026-06-09,4018497,Rechazado
+VIA-2026-249,4338166990,Natalia Ortiz,Técnico de Mantenimiento,Bogotá,Barrancabermeja,2026-03-12,2026-03-26,2394705,Aprobado
+VIA-2026-250,1531136431,Diego Suárez,Ingeniero de Yacimientos,Bogotá,Barrancabermeja,2026-09-30,2026-10-13,878607,Pendiente de Revisión
+VIA-2026-251,6767700186,Natalia Ortiz,Supervisor HSE,Bogotá,Cartagena,2026-08-24,2026-08-27,2498828,Pendiente de Revisión
+VIA-2026-252,1564145481,Natalia Ortiz,Ingeniero de Yacimientos,Bogotá,Barrancabermeja,2026-01-11,2026-01-18,2627359,Rechazado
+VIA-2026-253,9932553675,Camilo Torres,Técnico de Mantenimiento,Bogotá,Campo Rubiales,2026-10-29,2026-11-06,4067857,Aprobado
+VIA-2026-254,2200227431,Liliana Díaz,Supervisor HSE,Neiva,Campo Rubiales,2026-03-28,2026-03-31,4234919,Aprobado
+VIA-2026-255,1109375147,Diana Castro,Asistente Administrativo,Bogotá,Barrancabermeja,2026-11-27,2026-12-12,3988574,Aprobado
+VIA-2026-256,6427183769,Ricardo Parra,Asistente Administrativo,Bogotá,Barrancabermeja,2026-12-02,2026-12-05,3656880,Pendiente de Revisión
+VIA-2026-257,6998845536,Luis Hernández,Geólogo de Exploración,Bogotá,Yopal,2026-10-17,2026-10-29,2766797,Pendiente de Revisión
+VIA-2026-258,4546224717,Sergio Cárdenas,Ingeniero de Yacimientos,Bogotá,Barrancabermeja,2026-08-15,2026-08-27,2736688,Aprobado
+VIA-2026-259,8929491730,Juan Gómez,Asistente Administrativo,Bogotá,Barrancabermeja,2026-08-20,2026-08-22,2926796,Pendiente de Revisión
+VIA-2026-260,4481158508,Ricardo Parra,Técnico de Mantenimiento,Bogotá,Yopal,2026-07-16,2026-07-25,3337578,Rechazado
+VIA-2026-261,3077961943,Sergio Cárdenas,Técnico de Mantenimiento,Bogotá,Barrancabermeja,2026-09-01,2026-09-11,1839112,Aprobado
+VIA-2026-262,5867897124,Sandra Rojas,Geólogo de Exploración,Bogotá,Campo Rubiales,2026-08-13,2026-08-22,4048340,Pendiente de Revisión
+VIA-2026-263,7085122626,Juan Gómez,Supervisor HSE,Bogotá,Yopal,2026-06-23,2026-07-05,3140267,Pendiente de Revisión
+VIA-2026-264,4950815822,Juan Gómez,Asistente Administrativo,Bucaramanga,Barrancabermeja,2026-07-17,2026-07-23,1393193,Rechazado
+VIA-2026-265,1693446724,Patricia Acosta,Ingeniero de Yacimientos,Bogotá,Cartagena,2026-06-29,2026-07-05,3144289,Pendiente de Revisión
+VIA-2026-266,2270842187,Natalia Ortiz,Asistente Administrativo,Bogotá,Orito,2026-07-12,2026-07-24,876464,Pendiente de Revisión
+VIA-2026-267,2098517710,Paula Moreno,Técnico de Mantenimiento,Bogotá,Barrancabermeja,2026-07-05,2026-07-11,1123653,Aprobado
+VIA-2026-268,2271436148,Camilo Torres,Asistente Administrativo,Bogotá,Orito,2026-06-01,2026-06-16,3305033,Aprobado
+VIA-2026-269,9310919890,Felipe León,Ingeniero de Yacimientos,Bogotá,Barrancabermeja,2026-07-12,2026-07-16,2327982,Pendiente de Revisión
+VIA-2026-270,7671364201,Paula Moreno,Asistente Administrativo,Bogotá,Yopal,2026-05-02,2026-05-11,2098002,Pendiente de Revisión
+VIA-2026-271,6197318744,Sandra Rojas,Geólogo de Exploración,Bogotá,Barrancabermeja,2026-08-29,2026-09-13,3012326,Pendiente de Revisión
+VIA-2026-272,1083755632,Mónica Guerrero,Supervisor HSE,Bogotá,Orito,2026-08-03,2026-08-07,1230292,Pendiente de Revisión
+VIA-2026-273,4993503547,Felipe León,Asistente Administrativo,Bogotá,Barrancabermeja,2026-09-22,2026-10-07,4285662,Aprobado
+VIA-2026-274,4419514899,María Rodríguez,Geólogo de Exploración,Bogotá,Cartagena,2026-08-12,2026-08-15,2368508,Aprobado
+VIA-2026-275,4426031878,Ana Martínez,Supervisor HSE,Bogotá,Cartagena,2026-05-01,2026-05-09,1377134,Aprobado
+VIA-2026-276,3579592370,Mónica Guerrero,Geólogo de Exploración,Bogotá,Cartagena,2026-01-20,2026-01-26,822025,Aprobado
+VIA-2026-277,6571728644,Ana Martínez,Supervisor HSE,Bogotá,Barrancabermeja,2026-02-10,2026-02-12,2063119,Pendiente de Revisión
+VIA-2026-278,6979918312,Juan Gómez,Ingeniero de Yacimientos,Bogotá,Barrancabermeja,2026-03-04,2026-03-06,3302904,Pendiente de Revisión
+VIA-2026-279,3096124402,Sandra Rojas,Geólogo de Exploración,Bogotá,Yopal,2026-10-02,2026-10-04,3378698,Pendiente de Revisión
+VIA-2026-280,2879961166,Sergio Cárdenas,Supervisor HSE,Bogotá,Yopal,2026-06-30,2026-07-05,3006453,Aprobado
+VIA-2026-281,4392302465,Mónica Guerrero,Ingeniero de Yacimientos,Bucaramanga,Orito,2026-10-06,2026-10-16,2422697,Aprobado
+VIA-2026-282,4595133383,Paula Moreno,Ingeniero de Yacimientos,Neiva,Orito,2026-07-11,2026-07-17,3240679,Aprobado
+VIA-2026-283,7291641403,Diana Castro,Técnico de Mantenimiento,Bogotá,Barrancabermeja,2026-06-20,2026-06-24,3803310,Aprobado
+VIA-2026-284,4484951950,Sandra Rojas,Asistente Administrativo,Bogotá,Barrancabermeja,2026-08-23,2026-08-25,4220060,Aprobado
+VIA-2026-285,5125750294,Liliana Díaz,Ingeniero de Yacimientos,Bucaramanga,Barrancabermeja,2026-10-06,2026-10-15,2192193,Pendiente de Revisión
+VIA-2026-286,8413012103,Camilo Torres,Técnico de Mantenimiento,Bogotá,Orito,2026-05-20,2026-05-23,3702745,Aprobado
+VIA-2026-287,3450904834,Natalia Ortiz,Ingeniero de Yacimientos,Bogotá,Cartagena,2026-09-12,2026-09-19,3326872,Aprobado
+VIA-2026-288,5574731230,Felipe León,Asistente Administrativo,Neiva,Barrancabermeja,2026-04-03,2026-04-13,2587260,Aprobado
+VIA-2026-289,8220290540,Patricia Acosta,Geólogo de Exploración,Bogotá,Campo Rubiales,2026-03-27,2026-04-09,3482128,Aprobado
+VIA-2026-290,143747952,Patricia Acosta,Geólogo de Exploración,Bogotá,Yopal,2026-01-30,2026-02-02,1329447,Aprobado
+VIA-2026-291,2446297208,Patricia Acosta,Técnico de Mantenimiento,Bucaramanga,Orito,2026-02-04,2026-02-09,2687112,Aprobado
+VIA-2026-292,9191330562,Liliana Díaz,Geólogo de Exploración,Bogotá,Campo Rubiales,2026-07-09,2026-07-16,3524455,Aprobado
+VIA-2026-293,5104037570,Sergio Cárdenas,Geólogo de Exploración,Bogotá,Cartagena,2026-05-23,2026-05-28,1293925,Aprobado
+VIA-2026-294,9826477929,Mónica Guerrero,Técnico de Mantenimiento,Bogotá,Barrancabermeja,2026-05-15,2026-05-29,1369286,Aprobado
+VIA-2026-295,4293209430,Camilo Torres,Supervisor HSE,Neiva,Barrancabermeja,2026-02-07,2026-02-16,1072374,Pendiente de Revisión
+VIA-2026-296,9276414469,Diana Castro,Supervisor HSE,Bogotá,Barrancabermeja,2026-10-09,2026-10-19,1740537,Aprobado
+VIA-2026-297,2131808073,Liliana Díaz,Asistente Administrativo,Bogotá,Orito,2026-03-04,2026-03-09,2347325,Aprobado
+VIA-2026-298,3807809576,Juan Gómez,Supervisor HSE,Bogotá,Cartagena,2026-08-28,2026-09-11,3807037,Aprobado
+VIA-2026-299,2479178881,Luis Hernández,Supervisor HSE,Bucaramanga,Campo Rubiales,2026-09-03,2026-09-13,1111070,Aprobado
+VIA-2026-300,4160074940,Natalia Ortiz,Asistente Administrativo,Bogotá,Yopal,2026-08-19,2026-08-28,4287105,Aprobado
+VIA-2026-301,3056558332,Liliana Díaz,Asistente Administrativo,Bogotá,Barrancabermeja,2026-03-05,2026-03-15,4348103,Aprobado
+VIA-2026-302,1188758213,Sandra Rojas,Asistente Administrativo,Bogotá,Barrancabermeja,2026-02-10,2026-02-16,1191867,Rechazado
+VIA-2026-303,672259333,Patricia Acosta,Asistente Administrativo,Bogotá,Barrancabermeja,2026-09-15,2026-09-27,4333826,Rechazado
+VIA-2026-304,6782180882,Jorge Ramírez,Asistente Administrativo,Bogotá,Orito,2026-10-16,2026-10-18,3392534,Aprobado
+VIA-2026-305,9844064882,Sandra Rojas,Geólogo de Exploración,Bogotá,Campo Rubiales,2026-11-24,2026-11-26,4175106,Pendiente de Revisión
+VIA-2026-306,4983917657,Natalia Ortiz,Geólogo de Exploración,Bogotá,Campo Rubiales,2026-07-27,2026-08-02,1655734,Pendiente de Revisión
+VIA-2026-307,9971388046,Liliana Díaz,Geólogo de Exploración,Bogotá,Barrancabermeja,2026-06-24,2026-07-05,3990460,Rechazado
+VIA-2026-308,2013484425,Andrés Vargas,Geólogo de Exploración,Bogotá,Yopal,2026-07-09,2026-07-19,1390883,Aprobado
+VIA-2026-309,6947993287,Paula Moreno,Técnico de Mantenimiento,Bogotá,Barrancabermeja,2026-02-19,2026-02-21,3222995,Aprobado
+VIA-2026-310,6515693643,Mónica Guerrero,Supervisor HSE,Bogotá,Orito,2026-06-10,2026-06-15,897208,Aprobado
+VIA-2026-311,9523972838,Liliana Díaz,Ingeniero de Yacimientos,Bogotá,Campo Rubiales,2026-02-16,2026-02-24,1980094,Rechazado
+VIA-2026-312,6326122432,Laura Méndez,Ingeniero de Yacimientos,Bogotá,Cartagena,2026-09-11,2026-09-22,2607442,Pendiente de Revisión
+VIA-2026-313,1581688961,Diego Suárez,Ingeniero de Yacimientos,Bogotá,Orito,2026-03-10,2026-03-16,3156430,Pendiente de Revisión
+VIA-2026-314,6470728316,Laura Méndez,Supervisor HSE,Bogotá,Yopal,2026-04-10,2026-04-17,3653798,Aprobado
+VIA-2026-315,8543188043,Laura Méndez,Supervisor HSE,Neiva,Barrancabermeja,2026-11-09,2026-11-12,1405101,Aprobado
+VIA-2026-316,204576436,Luis Hernández,Supervisor HSE,Bogotá,Campo Rubiales,2026-04-12,2026-04-23,2978239,Aprobado
+VIA-2026-317,6938074841,Diana Castro,Geólogo de Exploración,Bogotá,Yopal,2026-08-22,2026-08-26,3900930,Aprobado
+VIA-2026-318,6591349462,Ricardo Parra,Supervisor HSE,Bogotá,Barrancabermeja,2026-06-03,2026-06-14,4221498,Pendiente de Revisión
+VIA-2026-319,2712653209,Patricia Acosta,Geólogo de Exploración,Bogotá,Barrancabermeja,2026-01-09,2026-01-16,3549747,Aprobado
+VIA-2026-320,2073511828,Sergio Cárdenas,Asistente Administrativo,Neiva,Barrancabermeja,2026-10-24,2026-11-04,4328110,Aprobado
+VIA-2026-321,3018714405,Jorge Ramírez,Ingeniero de Yacimientos,Bogotá,Orito,2026-07-14,2026-07-18,2115721,Aprobado
+VIA-2026-322,3134168227,Luis Hernández,Asistente Administrativo,Bogotá,Campo Rubiales,2026-08-03,2026-08-07,3152529,Aprobado
+VIA-2026-323,4118932916,Felipe León,Asistente Administrativo,Bogotá,Campo Rubiales,2026-06-16,2026-06-28,3091235,Aprobado
+VIA-2026-324,7282725281,Patricia Acosta,Geólogo de Exploración,Bogotá,Orito,2026-07-01,2026-07-13,1833976,Pendiente de Revisión
+VIA-2026-325,8523743139,Sandra Rojas,Técnico de Mantenimiento,Bucaramanga,Barrancabermeja,2026-05-23,2026-06-02,3756935,Rechazado
+VIA-2026-326,7404492221,Sandra Rojas,Ingeniero de Yacimientos,Bogotá,Campo Rubiales,2026-09-08,2026-09-15,3637959,Pendiente de Revisión
+VIA-2026-327,4934077461,María Rodríguez,Supervisor HSE,Neiva,Cartagena,2026-10-06,2026-10-14,1131473,Aprobado
+VIA-2026-328,929066362,Laura Méndez,Supervisor HSE,Bogotá,Yopal,2026-06-27,2026-07-06,3719954,Pendiente de Revisión
+VIA-2026-329,1037708670,María Rodríguez,Asistente Administrativo,Bogotá,Barrancabermeja,2026-05-20,2026-05-24,3475733,Pendiente de Revisión
+VIA-2026-330,2038959334,Luis Hernández,Ingeniero de Yacimientos,Bogotá,Barrancabermeja,2026-04-30,2026-05-02,1462452,Aprobado
+VIA-2026-331,8444946584,Camilo Torres,Supervisor HSE,Bucaramanga,Cartagena,2026-07-28,2026-08-09,1048145,Rechazado
+VIA-2026-332,4032964382,Diana Castro,Geólogo de Exploración,Bogotá,Yopal,2026-02-15,2026-02-27,952420,Aprobado
+VIA-2026-333,8282277508,María Rodríguez,Ingeniero de Yacimientos,Bogotá,Campo Rubiales,2026-07-23,2026-08-06,3182204,Rechazado
+VIA-2026-334,6556898241,Luis Hernández,Asistente Administrativo,Bogotá,Cartagena,2026-11-05,2026-11-08,1944361,Aprobado
+VIA-2026-335,9704878816,Diana Castro,Ingeniero de Yacimientos,Neiva,Barrancabermeja,2026-04-09,2026-04-23,2213950,Aprobado
+VIA-2026-336,1418434291,Diego Suárez,Ingeniero de Yacimientos,Bogotá,Yopal,2026-06-01,2026-06-12,1389768,Aprobado
+VIA-2026-337,1657439475,Felipe León,Supervisor HSE,Bogotá,Cartagena,2026-09-02,2026-09-09,2066452,Aprobado
+VIA-2026-338,1024911848,Ana Martínez,Geólogo de Exploración,Bogotá,Yopal,2026-10-26,2026-11-08,1469900,Aprobado
+VIA-2026-339,9935574695,Ana Martínez,Supervisor HSE,Bogotá,Campo Rubiales,2026-07-27,2026-08-08,3377925,Rechazado
+VIA-2026-340,5909673770,Laura Méndez,Geólogo de Exploración,Neiva,Cartagena,2026-04-24,2026-04-29,3054512,Aprobado
+VIA-2026-341,8951564880,Felipe León,Asistente Administrativo,Neiva,Barrancabermeja,2026-12-07,2026-12-22,2317435,Aprobado
+VIA-2026-342,9468191345,Laura Méndez,Técnico de Mantenimiento,Bogotá,Barrancabermeja,2026-02-09,2026-02-20,2176225,Pendiente de Revisión
+VIA-2026-343,6809567490,Juan Gómez,Asistente Administrativo,Bogotá,Barrancabermeja,2026-09-24,2026-10-03,4191900,Aprobado
+VIA-2026-344,2431980125,Laura Méndez,Geólogo de Exploración,Bucaramanga,Barrancabermeja,2026-01-29,2026-02-07,4184448,Aprobado
+VIA-2026-345,8612885936,Jorge Ramírez,Asistente Administrativo,Bogotá,Barrancabermeja,2026-06-07,2026-06-20,989959,Aprobado
+VIA-2026-346,3850638976,Mónica Guerrero,Ingeniero de Yacimientos,Bogotá,Orito,2026-08-05,2026-08-12,2514912,Aprobado
+VIA-2026-347,8444381915,Liliana Díaz,Geólogo de Exploración,Bogotá,Barrancabermeja,2026-04-03,2026-04-17,4447451,Pendiente de Revisión
+VIA-2026-348,9171121449,Liliana Díaz,Ingeniero de Yacimientos,Bogotá,Barrancabermeja,2026-07-13,2026-07-21,3053425,Rechazado
+VIA-2026-349,3595531525,Carlos Pérez,Supervisor HSE,Bogotá,Barrancabermeja,2026-07-21,2026-07-31,3624863,Rechazado
+VIA-2026-350,5368023411,Liliana Díaz,Técnico de Mantenimiento,Bogotá,Campo Rubiales,2026-10-06,2026-10-14,1590544,Pendiente de Revisión
+VIA-2026-351,77198189,Jorge Ramírez,Ingeniero de Yacimientos,Bogotá,Orito,2026-02-27,2026-03-01,3291182,Aprobado
+VIA-2026-352,219063208,María Rodríguez,Geólogo de Exploración,Bogotá,Yopal,2026-01-18,2026-01-27,1782890,Pendiente de Revisión
+VIA-2026-353,9201812311,Sandra Rojas,Técnico de Mantenimiento,Neiva,Orito,2026-10-04,2026-10-09,3216381,Pendiente de Revisión
+VIA-2026-354,1387246195,Sandra Rojas,Técnico de Mantenimiento,Bucaramanga,Yopal,2026-06-13,2026-06-24,2986285,Pendiente de Revisión
+VIA-2026-355,3925196257,Natalia Ortiz,Asistente Administrativo,Bogotá,Barrancabermeja,2026-04-24,2026-05-02,996646,Aprobado
+VIA-2026-356,9968888664,Natalia Ortiz,Geólogo de Exploración,Bogotá,Yopal,2026-06-26,2026-07-08,2057823,Pendiente de Revisión
+VIA-2026-357,3657891535,Sandra Rojas,Técnico de Mantenimiento,Bogotá,Orito,2026-07-12,2026-07-16,1041692,Aprobado
+VIA-2026-358,4880891270,Paula Moreno,Supervisor HSE,Bogotá,Cartagena,2026-10-15,2026-10-23,2185223,Pendiente de Revisión
+VIA-2026-359,8997064419,Jorge Ramírez,Ingeniero de Yacimientos,Bogotá,Cartagena,2026-11-28,2026-12-01,2381957,Pendiente de Revisión
+VIA-2026-360,5237046160,Jorge Ramírez,Supervisor HSE,Bogotá,Barrancabermeja,2026-11-06,2026-11-17,864314,Aprobado
+VIA-2026-361,9641864382,Patricia Acosta,Técnico de Mantenimiento,Bogotá,Cartagena,2026-04-19,2026-04-24,1803826,Aprobado
+VIA-2026-362,5847975356,Andrés Vargas,Supervisor HSE,Bogotá,Orito,2026-10-10,2026-10-17,2885732,Aprobado
+VIA-2026-363,5177393219,Camilo Torres,Geólogo de Exploración,Bogotá,Orito,2026-08-27,2026-08-30,3159399,Pendiente de Revisión
+VIA-2026-364,6098451458,Luis Hernández,Técnico de Mantenimiento,Bogotá,Barrancabermeja,2026-04-24,2026-05-07,1764768,Aprobado
+VIA-2026-365,7246361108,Andrés Vargas,Geólogo de Exploración,Neiva,Orito,2026-07-14,2026-07-25,3491461,Aprobado
+VIA-2026-366,736990714,Laura Méndez,Geólogo de Exploración,Bogotá,Barrancabermeja,2026-09-09,2026-09-18,3073886,Pendiente de Revisión
+VIA-2026-367,4332385617,Luis Hernández,Técnico de Mantenimiento,Bogotá,Campo Rubiales,2026-11-25,2026-11-27,3766084,Pendiente de Revisión
+VIA-2026-368,8859565863,Patricia Acosta,Geólogo de Exploración,Bucaramanga,Barrancabermeja,2026-03-19,2026-03-21,2846209,Aprobado
+VIA-2026-369,8671772834,Andrés Vargas,Asistente Administrativo,Bogotá,Campo Rubiales,2026-01-09,2026-01-11,871901,Aprobado
+VIA-2026-370,779945233,Ana Martínez,Asistente Administrativo,Bogotá,Yopal,2026-09-15,2026-09-30,1810696,Aprobado
+VIA-2026-371,1714657157,Liliana Díaz,Geólogo de Exploración,Bogotá,Campo Rubiales,2026-04-09,2026-04-20,3169790,Pendiente de Revisión
+VIA-2026-372,3651561499,María Rodríguez,Ingeniero de Yacimientos,Bogotá,Barrancabermeja,2026-05-05,2026-05-18,2390748,Pendiente de Revisión
+VIA-2026-373,3028696945,Juan Gómez,Geólogo de Exploración,Bogotá,Campo Rubiales,2026-07-13,2026-07-23,3504937,Pendiente de Revisión
+VIA-2026-374,3957728706,Paula Moreno,Técnico de Mantenimiento,Bucaramanga,Cartagena,2026-06-19,2026-06-30,3177265,Rechazado
+VIA-2026-375,8280323795,Laura Méndez,Asistente Administrativo,Bucaramanga,Barrancabermeja,2026-09-01,2026-09-07,938000,Aprobado
+VIA-2026-376,2531300895,Diego Suárez,Ingeniero de Yacimientos,Bogotá,Barrancabermeja,2026-04-02,2026-04-17,1481365,Rechazado
+VIA-2026-377,6626665277,Diego Suárez,Técnico de Mantenimiento,Bucaramanga,Yopal,2026-10-16,2026-10-21,3837362,Pendiente de Revisión
+VIA-2026-378,4724524551,Paula Moreno,Ingeniero de Yacimientos,Bogotá,Orito,2026-02-10,2026-02-20,3338261,Aprobado
+VIA-2026-379,8727175839,Andrés Vargas,Geólogo de Exploración,Bogotá,Campo Rubiales,2026-11-11,2026-11-22,1756881,Pendiente de Revisión
+VIA-2026-380,7142531532,Juan Gómez,Asistente Administrativo,Bogotá,Cartagena,2026-07-02,2026-07-12,4147286,Aprobado
+VIA-2026-381,9262548778,Diego Suárez,Supervisor HSE,Bogotá,Barrancabermeja,2026-05-07,2026-05-20,1246906,Aprobado
+VIA-2026-382,7574925592,Ana Martínez,Técnico de Mantenimiento,Bogotá,Cartagena,2026-02-16,2026-02-18,1585978,Aprobado
+VIA-2026-383,453639751,Juan Gómez,Supervisor HSE,Bogotá,Yopal,2026-08-09,2026-08-18,1190339,Aprobado
+VIA-2026-384,4357969846,Natalia Ortiz,Geólogo de Exploración,Neiva,Orito,2026-11-02,2026-11-13,1155255,Rechazado
+VIA-2026-385,1645231601,Luis Hernández,Supervisor HSE,Bogotá,Yopal,2026-10-14,2026-10-19,1925779,Aprobado
+VIA-2026-386,6113588071,Mónica Guerrero,Ingeniero de Yacimientos,Bogotá,Barrancabermeja,2026-09-10,2026-09-14,1855705,Aprobado
+VIA-2026-387,5144840512,Ana Martínez,Técnico de Mantenimiento,Bogotá,Yopal,2026-05-07,2026-05-20,828384,Pendiente de Revisión
+VIA-2026-388,8008080862,Felipe León,Supervisor HSE,Bogotá,Orito,2026-07-22,2026-07-29,4220352,Aprobado
+VIA-2026-389,5167617867,Camilo Torres,Técnico de Mantenimiento,Bogotá,Barrancabermeja,2026-11-30,2026-12-11,2138560,Aprobado
+VIA-2026-390,5346171726,Diego Suárez,Supervisor HSE,Bogotá,Yopal,2026-05-30,2026-06-12,2330986,Aprobado
+VIA-2026-391,9372716083,Laura Méndez,Ingeniero de Yacimientos,Neiva,Barrancabermeja,2026-02-28,2026-03-11,2736183,Rechazado
+VIA-2026-392,7719662258,Mónica Guerrero,Técnico de Mantenimiento,Bucaramanga,Orito,2026-04-18,2026-04-27,2070172,Pendiente de Revisión
+VIA-2026-393,7694026200,Juan Gómez,Geólogo de Exploración,Bogotá,Yopal,2026-05-04,2026-05-10,2810056,Pendiente de Revisión
+VIA-2026-394,8464334062,Laura Méndez,Asistente Administrativo,Bucaramanga,Campo Rubiales,2026-10-26,2026-11-03,1156440,Rechazado
+VIA-2026-395,9314352963,Patricia Acosta,Ingeniero de Yacimientos,Bogotá,Barrancabermeja,2026-02-25,2026-03-11,3505456,Pendiente de Revisión
+VIA-2026-396,7724753670,Ana Martínez,Ingeniero de Yacimientos,Bogotá,Cartagena,2026-11-28,2026-12-06,1885227,Aprobado
+VIA-2026-397,5254291385,Liliana Díaz,Geólogo de Exploración,Bogotá,Orito,2026-04-24,2026-05-04,4039438,Pendiente de Revisión
+VIA-2026-398,4410463094,Ana Martínez,Supervisor HSE,Bogotá,Campo Rubiales,2026-10-29,2026-11-11,1160101,Aprobado
+VIA-2026-399,5644526139,Felipe León,Técnico de Mantenimiento,Bogotá,Cartagena,2026-03-01,2026-03-16,2825538,Aprobado
+VIA-2026-400,6248213207,Juan Gómez,Supervisor HSE,Bogotá,Barrancabermeja,2026-06-28,2026-07-07,4198166,Pendiente de Revisión
+VIA-2026-401,9647532723,Diana Castro,Asistente Administrativo,Bogotá,Orito,2026-02-28,2026-03-02,2188271,Pendiente de Revisión
+VIA-2026-402,802214339,Natalia Ortiz,Geólogo de Exploración,Bogotá,Cartagena,2026-10-14,2026-10-22,3892830,Aprobado
+VIA-2026-403,8619047368,Jorge Ramírez,Técnico de Mantenimiento,Bogotá,Campo Rubiales,2026-11-11,2026-11-16,3955481,Aprobado
+VIA-2026-404,5107953682,Camilo Torres,Técnico de Mantenimiento,Bogotá,Barrancabermeja,2026-02-02,2026-02-13,1277961,Rechazado
+VIA-2026-405,7049917766,Patricia Acosta,Geólogo de Exploración,Bogotá,Cartagena,2026-05-15,2026-05-27,2446448,Aprobado
+VIA-2026-406,2661552513,Sandra Rojas,Asistente Administrativo,Bogotá,Barrancabermeja,2026-10-28,2026-10-31,1155475,Pendiente de Revisión
+VIA-2026-407,5091137534,Luis Hernández,Asistente Administrativo,Bogotá,Barrancabermeja,2026-03-10,2026-03-17,2554221,Aprobado
+VIA-2026-408,9343972392,Diana Castro,Geólogo de Exploración,Bogotá,Yopal,2026-11-02,2026-11-06,1388446,Aprobado
+VIA-2026-409,8022356988,Carlos Pérez,Geólogo de Exploración,Bogotá,Orito,2026-04-06,2026-04-13,1618428,Pendiente de Revisión
+VIA-2026-410,7245717104,Natalia Ortiz,Geólogo de Exploración,Bogotá,Campo Rubiales,2026-07-16,2026-07-26,1501511,Aprobado
+VIA-2026-411,1264516608,Andrés Vargas,Técnico de Mantenimiento,Bogotá,Barrancabermeja,2026-02-12,2026-02-23,2010771,Pendiente de Revisión
+VIA-2026-412,7594566722,Laura Méndez,Asistente Administrativo,Bogotá,Campo Rubiales,2026-03-28,2026-04-11,3202136,Pendiente de Revisión
+VIA-2026-413,7392963909,Laura Méndez,Técnico de Mantenimiento,Bogotá,Orito,2026-02-28,2026-03-06,1229565,Pendiente de Revisión
+VIA-2026-414,4443395802,Andrés Vargas,Supervisor HSE,Bogotá,Barrancabermeja,2026-12-01,2026-12-15,2641592,Rechazado
+VIA-2026-415,7264773516,Patricia Acosta,Geólogo de Exploración,Bogotá,Orito,2026-03-02,2026-03-16,3384325,Aprobado
+VIA-2026-416,8854874547,Liliana Díaz,Asistente Administrativo,Bogotá,Barrancabermeja,2026-03-13,2026-03-27,3303402,Aprobado
+VIA-2026-417,9842611396,Andrés Vargas,Asistente Administrativo,Bucaramanga,Barrancabermeja,2026-10-03,2026-10-07,4219116,Pendiente de Revisión
+VIA-2026-418,3956081594,Andrés Vargas,Técnico de Mantenimiento,Bucaramanga,Cartagena,2026-02-18,2026-02-22,4432597,Pendiente de Revisión
+VIA-2026-419,5991604165,Luis Hernández,Asistente Administrativo,Bucaramanga,Barrancabermeja,2026-03-09,2026-03-14,1927081,Aprobado
+VIA-2026-420,3312332663,Diego Suárez,Asistente Administrativo,Neiva,Campo Rubiales,2026-11-18,2026-11-26,1966963,Aprobado
+VIA-2026-421,3157025728,Felipe León,Supervisor HSE,Bogotá,Cartagena,2026-07-08,2026-07-17,4137315,Aprobado
+VIA-2026-422,5214862411,Andrés Vargas,Supervisor HSE,Bogotá,Barrancabermeja,2026-10-01,2026-10-09,2216647,Aprobado
+VIA-2026-423,7690705725,María Rodríguez,Ingeniero de Yacimientos,Bogotá,Barrancabermeja,2026-10-08,2026-10-19,3426387,Rechazado
+VIA-2026-424,6200276026,Carlos Pérez,Geólogo de Exploración,Bogotá,Barrancabermeja,2026-08-24,2026-08-26,3688163,Rechazado
+VIA-2026-425,8069914313,Juan Gómez,Supervisor HSE,Bogotá,Barrancabermeja,2026-03-09,2026-03-21,1145696,Rechazado
+VIA-2026-426,9912086784,Paula Moreno,Geólogo de Exploración,Bucaramanga,Cartagena,2026-07-10,2026-07-22,1182517,Aprobado
+VIA-2026-427,2559834042,Sergio Cárdenas,Geólogo de Exploración,Bogotá,Barrancabermeja,2026-02-18,2026-02-20,833816,Aprobado
+VIA-2026-428,2990840461,Mónica Guerrero,Ingeniero de Yacimientos,Bogotá,Barrancabermeja,2026-06-25,2026-07-10,2406711,Rechazado
+VIA-2026-429,1295291868,Diego Suárez,Técnico de Mantenimiento,Bucaramanga,Orito,2026-02-15,2026-02-28,3640118,Aprobado
+VIA-2026-430,2801815554,Felipe León,Supervisor HSE,Neiva,Campo Rubiales,2026-03-15,2026-03-18,1693619,Aprobado
+VIA-2026-431,7253746556,Jorge Ramírez,Ingeniero de Yacimientos,Bogotá,Barrancabermeja,2026-11-18,2026-12-01,1387257,Aprobado
+VIA-2026-432,6149177917,Luis Hernández,Técnico de Mantenimiento,Bogotá,Orito,2026-03-05,2026-03-16,3503734,Aprobado
+VIA-2026-433,6914559790,Carlos Pérez,Supervisor HSE,Bogotá,Yopal,2026-02-13,2026-02-18,2971597,Pendiente de Revisión
+VIA-2026-434,2785278048,Paula Moreno,Geólogo de Exploración,Bogotá,Barrancabermeja,2026-11-07,2026-11-17,1272881,Aprobado
+VIA-2026-435,1369239702,Diego Suárez,Asistente Administrativo,Bogotá,Yopal,2026-05-04,2026-05-13,2332650,Aprobado
+VIA-2026-436,323497572,Ricardo Parra,Ingeniero de Yacimientos,Bogotá,Barrancabermeja,2026-10-07,2026-10-19,1899684,Aprobado
+VIA-2026-437,9830390306,Sergio Cárdenas,Geólogo de Exploración,Bogotá,Cartagena,2026-04-21,2026-04-23,3743607,Rechazado
+VIA-2026-438,4960724801,Juan Gómez,Supervisor HSE,Bogotá,Yopal,2026-07-25,2026-07-28,2944567,Aprobado
+VIA-2026-439,2772327862,Sandra Rojas,Geólogo de Exploración,Neiva,Barrancabermeja,2026-04-15,2026-04-29,4350344,Aprobado
+VIA-2026-440,4803125884,Patricia Acosta,Asistente Administrativo,Bogotá,Barrancabermeja,2026-05-03,2026-05-05,2097256,Rechazado
+VIA-2026-441,9189254773,Carlos Pérez,Técnico de Mantenimiento,Bogotá,Barrancabermeja,2026-12-03,2026-12-16,2254186,Aprobado
+VIA-2026-442,5022067717,Luis Hernández,Supervisor HSE,Neiva,Orito,2026-09-25,2026-10-05,1295165,Pendiente de Revisión
+VIA-2026-443,4579295400,Ricardo Parra,Ingeniero de Yacimientos,Bogotá,Orito,2026-01-16,2026-01-23,2709237,Aprobado
+VIA-2026-444,5021717427,Diana Castro,Supervisor HSE,Neiva,Barrancabermeja,2026-09-19,2026-09-26,1231614,Rechazado
+VIA-2026-445,2195386258,María Rodríguez,Ingeniero de Yacimientos,Bogotá,Orito,2026-10-21,2026-11-02,992860,Aprobado
+VIA-2026-446,3692870880,Laura Méndez,Geólogo de Exploración,Bogotá,Campo Rubiales,2026-08-30,2026-09-06,2149735,Aprobado
+VIA-2026-447,3557630097,Ricardo Parra,Supervisor HSE,Bogotá,Cartagena,2026-05-08,2026-05-16,2905712,Aprobado
+VIA-2026-448,1731959126,Felipe León,Supervisor HSE,Neiva,Barrancabermeja,2026-01-27,2026-01-31,4343543,Aprobado
+VIA-2026-449,1594496586,Sandra Rojas,Asistente Administrativo,Bogotá,Barrancabermeja,2026-06-09,2026-06-16,3902006,Aprobado
+VIA-2026-450,9439267518,Laura Méndez,Técnico de Mantenimiento,Bogotá,Campo Rubiales,2026-11-15,2026-11-20,826750,Pendiente de Revisión
+VIA-2026-451,3777539382,Camilo Torres,Ingeniero de Yacimientos,Neiva,Barrancabermeja,2026-07-29,2026-07-31,3556932,Aprobado
+VIA-2026-452,9481237697,Paula Moreno,Geólogo de Exploración,Bogotá,Orito,2026-07-12,2026-07-27,1051218,Aprobado
+VIA-2026-453,8151445255,Felipe León,Ingeniero de Yacimientos,Bogotá,Barrancabermeja,2026-03-14,2026-03-27,1200879,Aprobado
+VIA-2026-454,4572470175,Luis Hernández,Técnico de Mantenimiento,Bogotá,Yopal,2026-09-16,2026-09-20,1894675,Aprobado
+VIA-2026-455,5706207128,Felipe León,Supervisor HSE,Bogotá,Campo Rubiales,2026-06-11,2026-06-25,1113261,Pendiente de Revisión
+VIA-2026-456,677483244,Diana Castro,Geólogo de Exploración,Bogotá,Orito,2026-04-14,2026-04-18,2117151,Pendiente de Revisión
+VIA-2026-457,5196758088,Sandra Rojas,Geólogo de Exploración,Bogotá,Campo Rubiales,2026-07-28,2026-07-31,4375569,Rechazado
+VIA-2026-458,183215225,Camilo Torres,Técnico de Mantenimiento,Bogotá,Barrancabermeja,2026-03-03,2026-03-06,3782810,Pendiente de Revisión
+VIA-2026-459,5588478394,Diana Castro,Ingeniero de Yacimientos,Bogotá,Campo Rubiales,2026-05-08,2026-05-15,4384457,Aprobado
+VIA-2026-460,1994460654,Luis Hernández,Ingeniero de Yacimientos,Bogotá,Orito,2026-08-20,2026-08-30,1058659,Aprobado
+VIA-2026-461,8960881177,Ricardo Parra,Supervisor HSE,Bogotá,Barrancabermeja,2026-04-24,2026-04-28,891436,Aprobado
+VIA-2026-462,563155490,Camilo Torres,Ingeniero de Yacimientos,Bogotá,Cartagena,2026-02-03,2026-02-08,2733552,Aprobado
+VIA-2026-463,7416374110,Mónica Guerrero,Ingeniero de Yacimientos,Bogotá,Cartagena,2026-01-26,2026-01-30,3665602,Aprobado
+VIA-2026-464,5486005015,Felipe León,Técnico de Mantenimiento,Bogotá,Campo Rubiales,2026-08-07,2026-08-11,3375749,Rechazado
+VIA-2026-465,6670157097,María Rodríguez,Ingeniero de Yacimientos,Bogotá,Barrancabermeja,2026-11-14,2026-11-25,2406482,Aprobado
+VIA-2026-466,2268354191,Laura Méndez,Ingeniero de Yacimientos,Bogotá,Barrancabermeja,2026-03-12,2026-03-20,4079592,Rechazado
+VIA-2026-467,6462729913,Diego Suárez,Supervisor HSE,Bogotá,Campo Rubiales,2026-07-03,2026-07-12,909316,Aprobado
+VIA-2026-468,7648763775,María Rodríguez,Geólogo de Exploración,Bogotá,Barrancabermeja,2026-06-13,2026-06-24,2299182,Rechazado
+VIA-2026-469,2831211202,Andrés Vargas,Asistente Administrativo,Neiva,Cartagena,2026-10-27,2026-11-01,1034497,Aprobado
+VIA-2026-470,3640196130,Diana Castro,Técnico de Mantenimiento,Bogotá,Orito,2026-04-23,2026-05-04,2133806,Pendiente de Revisión
+VIA-2026-471,2430671425,Ricardo Parra,Técnico de Mantenimiento,Bogotá,Barrancabermeja,2026-07-03,2026-07-14,3073835,Pendiente de Revisión
+VIA-2026-472,9599044295,Paula Moreno,Ingeniero de Yacimientos,Bogotá,Campo Rubiales,2026-06-08,2026-06-12,2804831,Aprobado
+VIA-2026-473,4865415646,Diana Castro,Supervisor HSE,Bogotá,Cartagena,2026-01-01,2026-01-08,891909,Aprobado
+VIA-2026-474,4616488160,Diego Suárez,Asistente Administrativo,Bogotá,Orito,2026-03-17,2026-03-28,2211639,Aprobado
+VIA-2026-475,8379574998,Mónica Guerrero,Supervisor HSE,Bogotá,Barrancabermeja,2026-06-04,2026-06-11,3766140,Aprobado
+VIA-2026-476,1542554057,Ricardo Parra,Técnico de Mantenimiento,Bogotá,Cartagena,2026-10-15,2026-10-28,2086909,Pendiente de Revisión
+VIA-2026-477,6765273988,Ricardo Parra,Ingeniero de Yacimientos,Bogotá,Barrancabermeja,2026-05-31,2026-06-04,3326601,Aprobado
+VIA-2026-478,2439019820,Mónica Guerrero,Técnico de Mantenimiento,Bogotá,Cartagena,2026-06-12,2026-06-26,3926196,Aprobado
+VIA-2026-479,4146395494,Camilo Torres,Geólogo de Exploración,Bogotá,Barrancabermeja,2026-02-09,2026-02-14,1912381,Aprobado
+VIA-2026-480,3390225197,Carlos Pérez,Ingeniero de Yacimientos,Bogotá,Yopal,2026-04-18,2026-04-23,2638028,Aprobado
+VIA-2026-481,5931525436,Laura Méndez,Geólogo de Exploración,Bogotá,Cartagena,2026-08-03,2026-08-07,4276268,Aprobado
+VIA-2026-482,2961331472,Diana Castro,Geólogo de Exploración,Bogotá,Cartagena,2026-09-03,2026-09-17,4152064,Pendiente de Revisión
+VIA-2026-483,459790661,Camilo Torres,Técnico de Mantenimiento,Bogotá,Barrancabermeja,2026-01-18,2026-01-24,1474882,Aprobado
+VIA-2026-484,8141344493,Carlos Pérez,Geólogo de Exploración,Bucaramanga,Cartagena,2026-02-08,2026-02-18,1492048,Rechazado
+VIA-2026-485,5120943464,Laura Méndez,Asistente Administrativo,Bogotá,Barrancabermeja,2026-11-07,2026-11-15,3570748,Aprobado
+VIA-2026-486,7912114913,Luis Hernández,Ingeniero de Yacimientos,Bogotá,Barrancabermeja,2026-05-25,2026-05-31,816003,Aprobado
+VIA-2026-487,6882873371,Jorge Ramírez,Ingeniero de Yacimientos,Bogotá,Barrancabermeja,2026-08-07,2026-08-10,1668023,Pendiente de Revisión
+VIA-2026-488,3633960580,Sandra Rojas,Geólogo de Exploración,Bogotá,Barrancabermeja,2026-03-29,2026-04-10,2851420,Aprobado
+VIA-2026-489,5099026099,Diego Suárez,Supervisor HSE,Bogotá,Barrancabermeja,2026-12-05,2026-12-11,2669717,Aprobado
+VIA-2026-490,7900193183,Ricardo Parra,Ingeniero de Yacimientos,Bogotá,Campo Rubiales,2026-01-23,2026-01-29,3955102,Aprobado
+VIA-2026-491,9577094448,María Rodríguez,Geólogo de Exploración,Bogotá,Yopal,2026-02-19,2026-02-22,2555870,Pendiente de Revisión
+VIA-2026-492,3796674545,Mónica Guerrero,Supervisor HSE,Bogotá,Cartagena,2026-10-02,2026-10-14,2455929,Aprobado
+VIA-2026-493,643282877,Felipe León,Técnico de Mantenimiento,Bogotá,Yopal,2026-01-18,2026-01-28,1688731,Aprobado
+VIA-2026-494,7238968839,Jorge Ramírez,Técnico de Mantenimiento,Bogotá,Barrancabermeja,2026-04-09,2026-04-13,1881653,Aprobado
+VIA-2026-495,9786208094,Felipe León,Ingeniero de Yacimientos,Bucaramanga,Cartagena,2026-06-13,2026-06-26,3413294,Aprobado
+VIA-2026-496,652708893,Ricardo Parra,Asistente Administrativo,Bogotá,Orito,2026-10-28,2026-11-07,3980865,Aprobado
+VIA-2026-497,6069726570,Diego Suárez,Geólogo de Exploración,Bogotá,Yopal,2026-02-21,2026-02-24,3354172,Aprobado
+VIA-2026-498,1735373847,Diego Suárez,Supervisor HSE,Bucaramanga,Barrancabermeja,2026-08-31,2026-09-02,1796479,Aprobado
+VIA-2026-499,1609620611,Camilo Torres,Supervisor HSE,Bogotá,Campo Rubiales,2026-01-26,2026-02-08,1975859,Aprobado
+VIA-2026-500,3741897202,Luis Hernández,Supervisor HSE,Neiva,Yopal,2026-09-09,2026-09-24,2658540,Aprobado
+VIA-2026-501,393484123,Felipe León,Técnico de Mantenimiento,Bogotá,Orito,2026-06-14,2026-06-20,3907747,Pendiente de Revisión
+VIA-2026-502,8841336766,Diana Castro,Ingeniero de Yacimientos,Bogotá,Campo Rubiales,2026-09-06,2026-09-20,3776149,Aprobado
+VIA-2026-503,134331395,Jorge Ramírez,Técnico de Mantenimiento,Bogotá,Barrancabermeja,2026-09-17,2026-09-25,1846438,Rechazado
+VIA-2026-504,5160137259,Liliana Díaz,Geólogo de Exploración,Bogotá,Barrancabermeja,2026-01-17,2026-01-26,2464896,Aprobado
+VIA-2026-505,1925999663,Mónica Guerrero,Asistente Administrativo,Bogotá,Yopal,2026-11-22,2026-11-25,2266999,Aprobado
+VIA-2026-506,4693197659,Carlos Pérez,Geólogo de Exploración,Bogotá,Orito,2026-06-26,2026-06-30,1483283,Aprobado
+VIA-2026-507,2790475472,Jorge Ramírez,Supervisor HSE,Bucaramanga,Cartagena,2026-10-20,2026-11-03,2517597,Rechazado
+VIA-2026-508,2940025537,Mónica Guerrero,Técnico de Mantenimiento,Bucaramanga,Cartagena,2026-09-20,2026-09-22,1526456,Rechazado
+VIA-2026-509,9911873995,Andrés Vargas,Geólogo de Exploración,Bogotá,Barrancabermeja,2026-11-04,2026-11-18,4371811,Aprobado
+VIA-2026-510,449427140,Sergio Cárdenas,Supervisor HSE,Bogotá,Barrancabermeja,2026-06-28,2026-07-07,3515149,Aprobado
+VIA-2026-511,2079050782,Camilo Torres,Supervisor HSE,Bucaramanga,Barrancabermeja,2026-11-01,2026-11-12,2163723,Pendiente de Revisión
+VIA-2026-512,7102994480,Jorge Ramírez,Técnico de Mantenimiento,Bogotá,Yopal,2026-05-22,2026-05-28,4010632,Rechazado
+VIA-2026-513,6882090713,Camilo Torres,Técnico de Mantenimiento,Neiva,Orito,2026-05-04,2026-05-06,906767,Pendiente de Revisión
+VIA-2026-514,6102693247,Diego Suárez,Ingeniero de Yacimientos,Bogotá,Cartagena,2026-12-02,2026-12-11,3769856,Aprobado
+VIA-2026-515,9554977229,Laura Méndez,Geólogo de Exploración,Bucaramanga,Barrancabermeja,2026-10-20,2026-11-04,2303645,Pendiente de Revisión
+VIA-2026-516,5082939882,Ana Martínez,Geólogo de Exploración,Bogotá,Orito,2026-09-17,2026-09-23,3907639,Pendiente de Revisión
+VIA-2026-517,393539822,Liliana Díaz,Técnico de Mantenimiento,Neiva,Orito,2026-05-13,2026-05-26,4455051,Pendiente de Revisión
+VIA-2026-518,9719027969,Sandra Rojas,Geólogo de Exploración,Bogotá,Orito,2026-06-07,2026-06-15,2773573,Aprobado
+VIA-2026-519,2675691647,Mónica Guerrero,Técnico de Mantenimiento,Bogotá,Yopal,2026-01-28,2026-02-12,1302544,Pendiente de Revisión
+VIA-2026-520,3678931881,Luis Hernández,Técnico de Mantenimiento,Bogotá,Barrancabermeja,2026-07-15,2026-07-25,2516274,Aprobado
+VIA-2026-521,4652049890,Camilo Torres,Técnico de Mantenimiento,Bogotá,Barrancabermeja,2026-10-19,2026-10-28,3461281,Rechazado
+VIA-2026-522,3332338756,Ricardo Parra,Técnico de Mantenimiento,Bogotá,Campo Rubiales,2026-01-30,2026-02-01,4093413,Aprobado
+VIA-2026-523,6037529118,Mónica Guerrero,Geólogo de Exploración,Bogotá,Yopal,2026-02-15,2026-02-19,958231,Pendiente de Revisión
+VIA-2026-524,8136105576,Sergio Cárdenas,Técnico de Mantenimiento,Bogotá,Orito,2026-10-01,2026-10-06,3638487,Rechazado
+VIA-2026-525,8071589784,Sandra Rojas,Técnico de Mantenimiento,Bogotá,Orito,2026-01-03,2026-01-15,2408727,Aprobado
+VIA-2026-526,4501326131,Sandra Rojas,Geólogo de Exploración,Neiva,Barrancabermeja,2026-09-15,2026-09-26,2982247,Aprobado
+VIA-2026-527,4285521470,Camilo Torres,Geólogo de Exploración,Bogotá,Barrancabermeja,2026-11-02,2026-11-12,3946212,Rechazado
+VIA-2026-528,1742553940,Paula Moreno,Técnico de Mantenimiento,Neiva,Cartagena,2026-04-07,2026-04-11,1350316,Rechazado
+VIA-2026-529,4833943986,María Rodríguez,Geólogo de Exploración,Bucaramanga,Barrancabermeja,2026-04-19,2026-05-02,1872857,Aprobado
+VIA-2026-530,2853139149,Carlos Pérez,Ingeniero de Yacimientos,Bucaramanga,Barrancabermeja,2026-10-01,2026-10-12,1285657,Rechazado
+VIA-2026-531,667675888,Carlos Pérez,Supervisor HSE,Bogotá,Campo Rubiales,2026-08-02,2026-08-11,3575222,Aprobado
+VIA-2026-532,3019596757,Natalia Ortiz,Ingeniero de Yacimientos,Bogotá,Campo Rubiales,2026-02-21,2026-03-05,3814724,Pendiente de Revisión
+VIA-2026-533,2147772998,Patricia Acosta,Técnico de Mantenimiento,Neiva,Barrancabermeja,2026-11-13,2026-11-16,1903076,Pendiente de Revisión
+VIA-2026-534,698799369,Laura Méndez,Geólogo de Exploración,Bogotá,Campo Rubiales,2026-09-25,2026-09-30,3686536,Aprobado
+VIA-2026-535,2132160665,Juan Gómez,Asistente Administrativo,Bogotá,Barrancabermeja,2026-09-04,2026-09-11,3834845,Aprobado
+VIA-2026-536,8502399988,Andrés Vargas,Geólogo de Exploración,Bogotá,Yopal,2026-02-21,2026-02-27,1218628,Aprobado
+VIA-2026-537,5648034087,Ana Martínez,Ingeniero de Yacimientos,Neiva,Barrancabermeja,2026-03-31,2026-04-15,992472,Aprobado
+VIA-2026-538,5716554814,Felipe León,Asistente Administrativo,Bogotá,Barrancabermeja,2026-01-05,2026-01-20,4484593,Pendiente de Revisión
+VIA-2026-539,6026293621,Felipe León,Supervisor HSE,Bogotá,Orito,2026-02-17,2026-02-24,3693660,Aprobado
+VIA-2026-540,726309186,Luis Hernández,Ingeniero de Yacimientos,Bogotá,Campo Rubiales,2026-09-02,2026-09-16,1235004,Rechazado
+VIA-2026-541,1891894932,Patricia Acosta,Geólogo de Exploración,Neiva,Campo Rubiales,2026-08-02,2026-08-13,2304072,Pendiente de Revisión
+VIA-2026-542,3840092090,Mónica Guerrero,Geólogo de Exploración,Bogotá,Cartagena,2026-11-10,2026-11-12,2525051,Rechazado
+VIA-2026-543,8653021280,Sergio Cárdenas,Asistente Administrativo,Neiva,Barrancabermeja,2026-08-14,2026-08-16,3169833,Pendiente de Revisión
+VIA-2026-544,2665316364,Natalia Ortiz,Técnico de Mantenimiento,Bogotá,Cartagena,2026-04-25,2026-05-07,2250178,Aprobado
+VIA-2026-545,2642445649,Carlos Pérez,Técnico de Mantenimiento,Bogotá,Yopal,2026-12-06,2026-12-18,4360316,Aprobado
+VIA-2026-546,7532334580,Camilo Torres,Técnico de Mantenimiento,Bogotá,Campo Rubiales,2026-08-29,2026-09-13,1966675,Aprobado
+VIA-2026-547,1019317340,Felipe León,Geólogo de Exploración,Bogotá,Barrancabermeja,2026-01-26,2026-02-05,2679461,Pendiente de Revisión
+VIA-2026-548,8516916058,Carlos Pérez,Ingeniero de Yacimientos,Bogotá,Campo Rubiales,2026-02-15,2026-03-02,2529473,Aprobado
+VIA-2026-549,7043172680,Sergio Cárdenas,Asistente Administrativo,Bogotá,Campo Rubiales,2026-01-19,2026-01-29,3545574,Pendiente de Revisión
+VIA-2026-550,6256858055,Laura Méndez,Asistente Administrativo,Bogotá,Campo Rubiales,2026-08-22,2026-08-29,2784466,Aprobado
+VIA-2026-551,962396600,Camilo Torres,Supervisor HSE,Bucaramanga,Orito,2026-12-03,2026-12-10,4155077,Aprobado
+VIA-2026-552,5010009225,Luis Hernández,Geólogo de Exploración,Bogotá,Campo Rubiales,2026-05-30,2026-06-09,1866566,Pendiente de Revisión
+VIA-2026-553,1697477596,Felipe León,Técnico de Mantenimiento,Neiva,Barrancabermeja,2026-11-09,2026-11-14,2217396,Rechazado
+VIA-2026-554,2538924461,Felipe León,Geólogo de Exploración,Bucaramanga,Campo Rubiales,2026-02-25,2026-03-11,3271771,Rechazado
+VIA-2026-555,3172014755,Laura Méndez,Geólogo de Exploración,Bogotá,Cartagena,2026-09-16,2026-09-20,2825563,Aprobado
+VIA-2026-556,2494872186,Luis Hernández,Ingeniero de Yacimientos,Bogotá,Cartagena,2026-09-18,2026-10-02,3557846,Aprobado
+VIA-2026-557,5957080764,Patricia Acosta,Técnico de Mantenimiento,Bogotá,Cartagena,2026-11-04,2026-11-15,2468787,Aprobado
+VIA-2026-558,8001678061,Laura Méndez,Técnico de Mantenimiento,Bogotá,Campo Rubiales,2026-06-25,2026-07-01,1679598,Aprobado
+VIA-2026-559,2897823121,Diana Castro,Asistente Administrativo,Bogotá,Barrancabermeja,2026-11-16,2026-11-29,3712155,Aprobado
+VIA-2026-560,6719942406,Ricardo Parra,Asistente Administrativo,Bucaramanga,Orito,2026-11-23,2026-11-30,3778474,Pendiente de Revisión
+VIA-2026-561,7944097788,Carlos Pérez,Asistente Administrativo,Bogotá,Orito,2026-08-02,2026-08-14,905999,Pendiente de Revisión
+VIA-2026-562,3383835078,Sandra Rojas,Supervisor HSE,Bogotá,Barrancabermeja,2026-07-15,2026-07-19,4320622,Aprobado
+VIA-2026-563,2334316421,Liliana Díaz,Geólogo de Exploración,Bogotá,Orito,2026-02-01,2026-02-14,3384147,Aprobado
+VIA-2026-564,1680255496,Sergio Cárdenas,Supervisor HSE,Bucaramanga,Barrancabermeja,2026-10-15,2026-10-30,3587088,Pendiente de Revisión
+VIA-2026-565,2381357111,Carlos Pérez,Supervisor HSE,Bogotá,Campo Rubiales,2026-01-25,2026-02-02,3402824,Rechazado
+VIA-2026-566,5136033644,Felipe León,Técnico de Mantenimiento,Bucaramanga,Barrancabermeja,2026-08-15,2026-08-30,1112345,Pendiente de Revisión
+VIA-2026-567,4479489987,Andrés Vargas,Asistente Administrativo,Bogotá,Orito,2026-04-06,2026-04-10,1345538,Aprobado
+VIA-2026-568,4036508020,María Rodríguez,Técnico de Mantenimiento,Bogotá,Orito,2026-03-24,2026-04-04,3303497,Aprobado
+VIA-2026-569,7147764127,Mónica Guerrero,Asistente Administrativo,Bogotá,Cartagena,2026-01-27,2026-02-10,2301919,Pendiente de Revisión
+VIA-2026-570,4120230967,Sergio Cárdenas,Ingeniero de Yacimientos,Bogotá,Orito,2026-02-07,2026-02-21,1468448,Aprobado
+VIA-2026-571,9516282232,Camilo Torres,Supervisor HSE,Bogotá,Campo Rubiales,2026-08-01,2026-08-11,2031340,Aprobado
+VIA-2026-572,2798722772,Ana Martínez,Supervisor HSE,Bogotá,Yopal,2026-04-22,2026-05-06,1808092,Aprobado
+VIA-2026-573,8771206076,Camilo Torres,Geólogo de Exploración,Bogotá,Cartagena,2026-11-25,2026-12-06,2418480,Aprobado
+VIA-2026-574,7614215219,Sergio Cárdenas,Asistente Administrativo,Bogotá,Orito,2026-05-12,2026-05-22,2841806,Aprobado
+VIA-2026-575,2217160929,Ana Martínez,Técnico de Mantenimiento,Neiva,Cartagena,2026-01-23,2026-01-29,3056429,Aprobado
+VIA-2026-576,7248760130,Ana Martínez,Técnico de Mantenimiento,Bogotá,Yopal,2026-10-01,2026-10-03,4276023,Aprobado
+VIA-2026-577,2956534590,Carlos Pérez,Geólogo de Exploración,Neiva,Orito,2026-08-11,2026-08-23,2191315,Aprobado
+VIA-2026-578,9681871231,Juan Gómez,Asistente Administrativo,Bogotá,Barrancabermeja,2026-01-20,2026-01-23,1884848,Aprobado
+VIA-2026-579,1368945892,Diego Suárez,Ingeniero de Yacimientos,Bogotá,Campo Rubiales,2026-07-28,2026-08-05,824741,Aprobado
+VIA-2026-580,2525167269,Juan Gómez,Supervisor HSE,Bogotá,Yopal,2026-11-25,2026-12-08,1245164,Pendiente de Revisión
+VIA-2026-581,8285074323,Diego Suárez,Geólogo de Exploración,Bucaramanga,Yopal,2026-05-29,2026-06-12,929264,Pendiente de Revisión
+VIA-2026-582,6648836058,Luis Hernández,Supervisor HSE,Bucaramanga,Campo Rubiales,2026-08-31,2026-09-04,4134543,Aprobado
+VIA-2026-583,617196157,María Rodríguez,Ingeniero de Yacimientos,Bogotá,Cartagena,2026-11-28,2026-12-05,3302551,Aprobado
+VIA-2026-584,9502104885,Liliana Díaz,Técnico de Mantenimiento,Bogotá,Campo Rubiales,2026-07-21,2026-07-31,3509233,Aprobado
+VIA-2026-585,7890184233,Jorge Ramírez,Ingeniero de Yacimientos,Bogotá,Barrancabermeja,2026-09-20,2026-09-24,3614285,Aprobado
+VIA-2026-586,6662264884,Laura Méndez,Ingeniero de Yacimientos,Bogotá,Barrancabermeja,2026-10-18,2026-11-02,3617252,Pendiente de Revisión
+VIA-2026-587,5725961218,Luis Hernández,Técnico de Mantenimiento,Bogotá,Barrancabermeja,2026-02-04,2026-02-10,1995951,Pendiente de Revisión
+VIA-2026-588,6240477043,Patricia Acosta,Supervisor HSE,Bucaramanga,Cartagena,2026-11-14,2026-11-17,3250186,Aprobado
+VIA-2026-589,8422376000,Diana Castro,Ingeniero de Yacimientos,Bogotá,Yopal,2026-03-20,2026-03-31,1832533,Pendiente de Revisión
+VIA-2026-590,7913212516,Luis Hernández,Supervisor HSE,Bogotá,Orito,2026-04-24,2026-05-07,2741326,Aprobado
+VIA-2026-591,477432617,Patricia Acosta,Ingeniero de Yacimientos,Bogotá,Orito,2026-08-17,2026-08-24,4401706,Aprobado
+VIA-2026-592,2701307645,Juan Gómez,Ingeniero de Yacimientos,Bogotá,Barrancabermeja,2026-03-13,2026-03-23,3449233,Pendiente de Revisión
+VIA-2026-593,2544186676,María Rodríguez,Asistente Administrativo,Bogotá,Yopal,2026-01-16,2026-01-31,3079475,Aprobado
+VIA-2026-594,1695767569,Ricardo Parra,Supervisor HSE,Bogotá,Yopal,2026-10-04,2026-10-13,2749097,Aprobado
+VIA-2026-595,8645425513,Paula Moreno,Asistente Administrativo,Bucaramanga,Barrancabermeja,2026-09-14,2026-09-24,1495598,Aprobado
+VIA-2026-596,4166392601,Mónica Guerrero,Supervisor HSE,Bogotá,Campo Rubiales,2026-09-21,2026-09-25,1717793,Aprobado
+VIA-2026-597,8783795424,Jorge Ramírez,Asistente Administrativo,Bogotá,Barrancabermeja,2026-09-07,2026-09-12,2427780,Aprobado
+VIA-2026-598,7090359881,Ana Martínez,Asistente Administrativo,Bucaramanga,Cartagena,2026-08-29,2026-09-07,4279792,Aprobado
+VIA-2026-599,2458819206,Diego Suárez,Geólogo de Exploración,Bogotá,Orito,2026-05-21,2026-06-05,3264903,Pendiente de Revisión
+VIA-2026-600,9557279605,Diego Suárez,Supervisor HSE,Bogotá,Barrancabermeja,2026-12-01,2026-12-16,2842045,Aprobado
