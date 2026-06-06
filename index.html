@@ -38,7 +38,7 @@
             -webkit-background-clip: text; 
             -webkit-text-fill-color: transparent; 
         }
-        ::-webkit-scrollbar { width: 8px; }
+        ::-webkit-scrollbar { width: 8px; height: 8px; }
         ::-webkit-scrollbar-track { background: #0B1120; }
         ::-webkit-scrollbar-thumb { background: #1e293b; border-radius: 4px; }
         ::-webkit-scrollbar-thumb:hover { background: #334155; }
@@ -78,10 +78,10 @@
                 </h2>
                 <p class="text-slate-400 text-sm mb-6 relative z-10 font-medium">500 Registros • Formato CSV</p>
                 
-                <div class="aspect-video w-full rounded-2xl overflow-hidden mb-8 border border-slate-700/50 relative z-10 bg-[#0f172a] flex items-center justify-center shadow-inner">
+                <div class="aspect-video w-full rounded-2xl overflow-hidden mb-8 border border-slate-700/50 relative z-10 bg-[#0f172a] flex items-center justify-center shadow-inner cursor-pointer group/img container-preview">
                     <img src="https://raw.githubusercontent.com/IngCarlosMora/Bases_de_Datos_Ejemplos_para_Clase/main/Base%20de%20Datos%20Viaticos.png" 
                          alt="Diagrama de Base de Datos Viáticos" 
-                         class="object-contain w-full h-full opacity-85 group-hover:opacity-100 transition-all duration-500 group-hover:scale-105 p-2">
+                         class="object-contain w-full h-full opacity-85 group-hover/img:opacity-100 transition-all duration-500 group-hover/img:scale-105 p-2 img-trigger">
                 </div>
                 
                 <div class="mt-auto pt-2 relative z-10">
@@ -104,10 +104,10 @@
                 </h2>
                 <p class="text-slate-400 text-sm mb-6 relative z-10 font-medium">5000 Registros • Formato CSV</p>
                 
-                <div class="aspect-video w-full rounded-2xl overflow-hidden mb-8 border border-slate-700/50 relative z-10 bg-[#0f172a] flex items-center justify-center shadow-inner">
+                <div class="aspect-video w-full rounded-2xl overflow-hidden mb-8 border border-slate-700/50 relative z-10 bg-[#0f172a] flex items-center justify-center shadow-inner cursor-pointer group/img container-preview">
                     <img src="https://raw.githubusercontent.com/IngCarlosMora/Bases_de_Datos_Ejemplos_para_Clase/main/Base%20de%20datos%20Contratos.png" 
                          alt="Diagrama de Base de Datos Contratos" 
-                         class="object-contain w-full h-full opacity-85 group-hover:opacity-100 transition-all duration-500 group-hover:scale-105 p-2">
+                         class="object-contain w-full h-full opacity-85 group-hover/img:opacity-100 transition-all duration-500 group-hover/img:scale-105 p-2 img-trigger">
                 </div>
                 
                 <div class="mt-auto pt-2 relative z-10">
@@ -130,10 +130,10 @@
                 </h2>
                 <p class="text-slate-400 text-sm mb-6 relative z-10 font-medium">3000 Registros • Formato CSV</p>
                 
-                <div class="aspect-video w-full rounded-2xl overflow-hidden mb-8 border border-slate-700/50 relative z-10 bg-[#0f172a] flex items-center justify-center shadow-inner">
+                <div class="aspect-video w-full rounded-2xl overflow-hidden mb-8 border border-slate-700/50 relative z-10 bg-[#0f172a] flex items-center justify-center shadow-inner cursor-pointer group/img container-preview">
                     <img src="https://raw.githubusercontent.com/IngCarlosMora/Bases_de_Datos_Ejemplos_para_Clase/main/Base%20de%20datos%20Inventarios.png" 
                          alt="Diagrama de Base de Datos Inventarios" 
-                         class="object-contain w-full h-full opacity-85 group-hover:opacity-100 transition-all duration-500 group-hover:scale-105 p-2">
+                         class="object-contain w-full h-full opacity-85 group-hover/img:opacity-100 transition-all duration-500 group-hover/img:scale-105 p-2 img-trigger">
                 </div>
                 
                 <div class="mt-auto pt-2 relative z-10">
@@ -158,5 +158,110 @@
             </p>
         </footer>
     </main>
+
+    <!-- Interactivity Layer: Disruptive Lightbox Modal (Zoom + Pan/Drag) -->
+    <div id="lightbox-modal" class="fixed inset-0 bg-slate-950/90 backdrop-blur-md z-50 hidden items-center justify-center opacity-0 transition-opacity duration-300">
+        <!-- Close Button -->
+        <button id="close-modal" class="absolute top-6 right-6 text-slate-400 hover:text-white bg-slate-900/80 p-3 rounded-full border border-slate-800/80 transition-all hover:scale-110 z-50 shadow-lg">
+            <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"></path></svg>
+        </button>
+        
+        <!-- Controls Indicator Hint -->
+        <div class="absolute bottom-6 left-1/2 -translate-x-1/2 glass px-4 py-2 rounded-full text-xs text-slate-400 pointer-events-none select-none text-center">
+            Arrastra para moverte • Doble clic para reiniciar
+        </div>
+
+        <!-- Scrollable/Draggable Viewport -->
+        <div id="img-viewport" class="w-[92vw] h-[85vh] overflow-auto rounded-2xl border border-slate-800 bg-slate-900/40 cursor-grab active:cursor-grabbing flex items-start justify-start p-4">
+            <img id="lightbox-img" src="" alt="Vista ampliada" class="max-w-none w-[1600px] md:w-[2200px] h-auto object-contain select-none transition-transform duration-200 origin-top-left pointer-events-none">
+        </div>
+    </div>
+
+    <!-- Lightbox Script with Inertial Drag and Drop/Pan Implementation -->
+    <script>
+        const modal = document.getElementById('lightbox-modal');
+        const lightboxImg = document.getElementById('lightbox-img');
+        const viewport = document.getElementById('img-viewport');
+        const closeBtn = document.getElementById('close-modal');
+        const triggers = document.querySelectorAll('.container-preview');
+
+        let isDragging = false;
+        let startX, startY, scrollLeft, scrollTop;
+
+        // Open Lightbox
+        triggers.forEach(trigger => {
+            trigger.addEventListener('click', () => {
+                const targetImg = trigger.querySelector('.img-trigger');
+                lightboxImg.src = targetImg.src;
+                
+                // Show modal with animation smoothly
+                modal.classList.remove('hidden');
+                modal.classList.add('flex');
+                setTimeout(() => { modal.classList.add('opacity-100'); }, 10);
+                document.body.style.overflow = 'hidden';
+
+                // Center scrollbars immediately inside viewport
+                setTimeout(() => {
+                    viewport.scrollLeft = (lightboxImg.clientWidth - viewport.clientWidth) / 2;
+                    viewport.scrollTop = (lightboxImg.clientHeight - viewport.clientHeight) / 4;
+                }, 50);
+            });
+        });
+
+        // Close Lightbox
+        const closeModal = () => {
+            modal.classList.remove('opacity-100');
+            setTimeout(() => {
+                modal.classList.add('hidden');
+                modal.classList.remove('flex');
+                lightboxImg.src = '';
+            }, 300);
+            document.body.style.overflow = '';
+        };
+
+        closeBtn.addEventListener('click', closeModal);
+        modal.addEventListener('click', (e) => {
+            if (e.target === modal) closeModal();
+        });
+
+        // Drag to Pan Logic
+        viewport.addEventListener('mousedown', (e) => {
+            isDragging = true;
+            startX = e.pageX - viewport.offsetLeft;
+            startY = e.pageY - viewport.offsetTop;
+            scrollLeft = viewport.scrollLeft;
+            scrollTop = viewport.scrollTop;
+        });
+
+        viewport.addEventListener('mouseleave', () => { isDragging = false; });
+        viewport.addEventListener('mouseup', () => { isDragging = false; });
+
+        viewport.addEventListener('mousemove', (e) => {
+            if (!isDragging) return;
+            e.preventDefault();
+            const x = e.pageX - viewport.offsetLeft;
+            const y = e.pageY - viewport.offsetTop;
+            const walkX = (x - startX) * 1.5; // Speed multiplier
+            const walkY = (y - startY) * 1.5;
+            viewport.scrollLeft = scrollLeft - walkX;
+            viewport.scrollTop = scrollTop - walkY;
+        });
+
+        // Double Click to Reset Viewport Position
+        viewport.addEventListener('dblclick', () => {
+            viewport.scrollTo({
+                left: (lightboxImg.clientWidth - viewport.clientWidth) / 2,
+                top: (lightboxImg.clientHeight - viewport.clientHeight) / 4,
+                behavior: 'smooth'
+            });
+        });
+
+        // Keyboard support (Escape key)
+        document.addEventListener('keydown', (e) => {
+            if (e.key === 'Escape' && !modal.classList.contains('hidden')) {
+                closeModal();
+            }
+        });
+    </script>
 </body>
 </html>
